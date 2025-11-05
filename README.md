@@ -7,7 +7,7 @@ val profile = PersonalInformation()
 profile.city = "Medellín" \
 profile.mail = "alejo51120@gmail.com" :email: \
 profile.languages = listOf("Spanish (mother tongue)", English(B2), German(B1)) \
-profile.hobbies = listOf("Football :soccer:, "Travel" :airplane:, "Watching anime" :tv:, "Swimming" :swimmer:)
+profile.hobbies = listOf("Football :soccer:, "Travel" :airplane:, "Watching anime" :tv:, "Swimming" :swimmer:) \
 profile.website = "https://portfolio-1edd1.web.app/"
 <br>
 
